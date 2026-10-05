@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://impulseo-pl.github.io/taxi-sycow-prusiko/sitemap.xml
